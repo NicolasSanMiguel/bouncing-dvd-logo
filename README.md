@@ -6,3 +6,8 @@ When changed from the default white logo, the color changes to a random RGB or H
 ![Demo1](basic_demo.gif)
 ### Demo of RSB/HSB/default color changes and speed adjustments
 ![Demo1](bouncing.gif)
+
+### Setup instructions
+To run the graphics, download the associated files (setup.html, bouncing_logo.js, and dvd_logo.png) and place them in the same directory.
+Run the setup.html file in a Google Chrome window using the localhost. 
+I usually use the VS Code "Live Server" extension to run setup.html in a live Google Chrome window.
